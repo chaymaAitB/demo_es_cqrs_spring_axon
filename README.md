@@ -46,19 +46,19 @@ The architecture is based on two main parts:
 
 - Project Architecture :
   
-![](imgs/arch_g.png)
+![](imgs/img_arch_g.png)
 
 - Command Architecture :
   
-![](imgs/command.png)
+![](imgs/img_command.png)
 
 - Commons Architecture :
   
-![](imgs/commons.png)
+![](imgs/img_commons.png)
 
 - Query Architecture :
   
-![](imgs/query.png)
+![](imgs/img_query.png)
 
 
 ---
