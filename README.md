@@ -93,6 +93,7 @@ The architecture is based on two main parts:
 Below are key images illustrating the architecture and system behavior included in the repository:
 
 ![](imgs/img_apis.png)
+
 This image illustrates the structure and layout of the API endpoints exposed by the application. It shows both the command APIs for writing operations (such as creating, crediting, and debiting accounts) and the query APIs for reading account information and transaction history. This helps to understand how the backend services separate command and query responsibilities following the CQRS pattern.
 
 ![](imgs/img_axon.png)
