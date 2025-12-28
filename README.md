@@ -45,15 +45,19 @@ The architecture is based on two main parts:
 ## Project Structure (Structure du Projet)
 
 - Project Architecture :
+  
 ![](imgs/arch_g.png)
 
 - Command Architecture :
+  
 ![](imgs/command.png)
 
 - Commons Architecture :
+  
 ![](imgs/commons.png)
 
 - Query Architecture :
+  
 ![](imgs/query.png)
 
 
